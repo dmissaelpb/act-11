@@ -9,7 +9,7 @@ public class Triangulo {
        }
 
        static float PerimetroTriangulo(float a, float b){
-           float hipotenusa;
+         float hipotenusa;
         return hipotenusa = (float) Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
        }
 

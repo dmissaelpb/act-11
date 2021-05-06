@@ -22,8 +22,6 @@ static void shapeCuadrado(){
     lado_= lado; 
 }
 
-
-
 static void cuadradoArea(){
 
     System.out.println(" EL AREA DEL CUADRADO ES :"+ Cuadrado.areaCuadrado(lado_));
